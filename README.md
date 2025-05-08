@@ -1,7 +1,3 @@
-Here's the updated **README** format for your app's privacy policy based on the offline nature of your app and the fact that it doesn't collect any data:
-
----
-
 # Scangaroo Privacy Policy
 
 **Last Updated:** May 08, 2025
